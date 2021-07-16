@@ -1,0 +1,22 @@
+header h1 {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+header {
+    padding: 40px;
+    background-color: rgb(17, 124, 143);
+}
+
+h2{
+   text-align: center;
+    font-size: 25px;
+    color: black; 
+}
+
+main{
+     text-align: center;
+    
+}
+}
