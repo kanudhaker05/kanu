@@ -1,3 +1,3 @@
-kanu=prompt("enter your name")
+kanu=prompt("ENTER YOUR NAME")
 
-alert("welcome " +kanu)
+alert("Welcome " +kanu)
